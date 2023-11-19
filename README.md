@@ -7,6 +7,6 @@ document.embeds[0].style.filter = 'grayscale(100%) invert(100%) sepia(100%) cont
 Adjust to your preference.
 
 
-##Make the background fit perfectly to the dark background of the Notes app?
+You can also make the background fit perfectly to the dark background of the Notes app. This makes your screenshots of the PDF fit perfectly.
 document.embeds[0].style.filter = 'grayscale(100%) invert(100%) sepia(100%) contrast(76.3%)';
 
